@@ -18,14 +18,14 @@
     <img align="center" 
          alt="Linkdein" 
          width="22px" 
-         src="https://github.com/LuisRCbmo/LuisRCbmo/blob/LuisRCbmo-patch-1/images/linkedin.png" />
+         src="https://github.com/LuisRCbmo/LuisRCbmo/blob/main/images/linkedin.png" />
     </a>
 
   <a href="mailto:rosalescaero@gmail.com">
     <img align="center" 
          alt="Gmail" 
          width="22px" 
-         src="https://github.com/LuisRCbmo/LuisRCbmo/blob/LuisRCbmo-patch-1/images/gmail.png" />
+         src="https://github.com/LuisRCbmo/LuisRCbmo/blob/main/images/gmail.png" />
     </a>
   </div>
 
