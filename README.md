@@ -9,39 +9,19 @@
 <p align="center">Mi nombre es Luis Alejandro Rosales Caero, estudio la carrera de ingenieria de sistemas y soy miembro activo de la Sociedad Científica de Estudiantes de Sistemas e Informática. soy un aspirante a ser un Full stack developer y tambien un desarrollador de videojuegos. 
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
-  <img align="center" 
-       alt="Lunox's Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
   
-<a href="https://www.linkedin.com/in/lunox/">
+<a href="https://www.linkedin.com/in/luis-rosales-2a0708229/">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
-
-  <a href="https://www.codegrepper.com/app/profile.php?id=79189">
-  <img align="center" 
-       alt="Grepper" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
+       src="https://github.com/LuisRCbmo/LuisRCbmo/blob/LuisRCbmo-patch-1/images/linkedin.png" />
   </a>
   
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
-  <img align="center" 
-       alt="Stack Overflow" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
-  </a>
-  
-<a href="mailto:lunox.code@gmail.com">
+<a href="mailto:rosalescaero@gmail.com">
   <img align="center" 
        alt="Gmail" 
        width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+       src="https://github.com/LuisRCbmo/LuisRCbmo/blob/LuisRCbmo-patch-1/images/gmail.png" />
   </a>
 </h1>
 
