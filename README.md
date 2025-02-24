@@ -35,9 +35,7 @@
     <p><H3 align="center"><strong> Conocimientos </strong></p>
       <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
       <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-      <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
       <br>
-      <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
       <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
      </p>
@@ -45,9 +43,6 @@
     <!-- Skills to learn -->
   <div> 
     <p><H3 align="center"><strong>Habilidades por aprender</strong></p>
-      <code><img height="40" src="https://www.pngall.com/wp-content/uploads/2016/05/WordPress-Logo-PNG-HD.png"></code>
-      <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png"></code>
-      <code><img height="40" src="https://www.sysadminsdecuba.com/wp-content/uploads/2018/11/Nginx-Logo-02.png"></code>  
     </p>
   </div>
 </div>
